@@ -1,14 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-
-
-
-
-
 body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'If-yLO2';
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -16,31 +10,31 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-family: 'BasicFontRegular-GOOlD';
+  font-size: 1.4rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 2.24rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'If-yLO2';
+  font-size: 2rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 3.2rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-family: 'LittleCupcakeRegular-6Yy0Y';
+  font-size: 2.5rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'If-yLO2';
   font-size: 1rem;
   font-display: swap;
 }
@@ -59,19 +53,19 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -546,7 +540,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'If-yLO2';
   font-size: 1rem;
   font-display: swap;
 }
@@ -711,8 +705,8 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-qTkAaeaxX5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 75px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 @media (max-width: 767px) {
@@ -777,10 +771,15 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
   }
 }
+.cid-qTkAaeaxX5 H5 {
+  text-align: center;
+}
+.cid-qTkAaeaxX5 P {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-s0q21ktBYz {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #232323, #ffffff);
+  background: linear-gradient(45deg, #000000, #000000);
 }
 @media (min-width: 992px) {
   .cid-s0q21ktBYz .mbr-figure {
@@ -792,12 +791,20 @@ section.lazy-placeholder:after {
     padding-top: 3rem;
   }
 }
+.cid-s0q21ktBYz .mbr-section-title {
+  text-align: center;
+}
+.cid-s0q21ktBYz .mbr-text,
+.cid-s0q21ktBYz .mbr-section-btn {
+  text-align: center;
+}
 .cid-s0q6gsbCT0 {
-  background: #ffffff;
+  background: #000000;
+  padding-top: 30px;
+  padding-bottom: 15px;
 }
 .cid-s0q6gsbCT0 .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-s0q6gsbCT0 .mbr-figure {
   margin: 0 auto;
@@ -814,4 +821,8 @@ section.lazy-placeholder:after {
   .cid-s0q6gsbCT0 .image-block {
     width: 100% !important;
   }
+}
+.cid-s0q6gsbCT0 .mbr-figure-caption div {
+  text-align: center;
+  color: #000000;
 }
